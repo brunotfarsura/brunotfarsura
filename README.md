@@ -2,11 +2,10 @@
 
 ## Personal Details
 
-**Name:** Pedro Vinícius Silva de Paiva <br>
-**Email:** pedrovsp109@gmail.com  <br>
-**Date of birth:** 11/10/1990  <br>
+**Name:** Bruno Telles Farsura <br>
+**Email:** brunofarsura@gmail.com  <br>
+**Date of birth:** 03/06/1989  <br>
 **Nationality:** Brazil  <br>
-**Marital Status:** Single  <br>
 
 ## Skills
 
